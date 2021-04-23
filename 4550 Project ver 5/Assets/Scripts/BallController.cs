@@ -13,8 +13,9 @@ public class BallController : MonoBehaviour
     {
         bod = GetComponent<Rigidbody2D>();
         charCont = GameObject.Find("Player").GetComponent<CharacterController2D>();
-        //Destroy(gameObject, 2f);
+        Destroy(gameObject, 2f);
     }
+
     private void OnEnable()
     {
         int dir = Random.Range(0, 2);
@@ -34,8 +35,8 @@ public class BallController : MonoBehaviour
         Enemy enemy = hitInfo.GetComponent<Enemy>();
         if (enemy != null)
         {
-            enemy.TakeDamage(10);
+            enemy.TakeDamage(20);
+            Destroy(gameObject);
         }
-        Destroy(gameObject);
     }
 }
