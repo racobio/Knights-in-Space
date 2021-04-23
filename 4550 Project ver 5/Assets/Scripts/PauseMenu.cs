@@ -6,7 +6,10 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool gamePaused = false;
     public GameObject pauseUI;
-
+    void Start()
+    {
+        Resume();
+    }
     // Adds pause button keybind to escape
     void Update()
     {
