@@ -25,6 +25,7 @@ public class PlayerHealth : MonoBehaviour
         {
             TakeDamage(30);
         }
+        Healthbar.SetHealth(Health, MaxHealth);
     }
 
     public void TakeDamage(float damage)

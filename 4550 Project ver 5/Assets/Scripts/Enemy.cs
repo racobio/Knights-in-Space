@@ -10,13 +10,14 @@ public class Enemy : MonoBehaviour
     public HealthbarBehaviour Healthbar;
     bool hashurt = false;
     PlayerCombat playerCom;
+    PlayerExp playerExperience;
 
     void Start()
     {
         Health = MaxHealth;
         Healthbar.SetHealth(Health, MaxHealth);
         playerCom = GameObject.Find("Player").GetComponent<PlayerCombat>();
-    
+        playerExperience = GameObject.Find("Player").GetComponent<PlayerExp>();
     }
 
     public void TakeDamage(float damage)
@@ -27,6 +28,7 @@ public class Enemy : MonoBehaviour
         {
             if(!hashurt)
             {
+                playerExperience.curExp += 20;
                 playerCom.LaserBullet += 2;
                 playerCom.ShotgunBullet += 3;
                 hashurt = true;

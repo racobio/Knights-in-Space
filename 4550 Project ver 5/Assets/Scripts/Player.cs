@@ -12,14 +12,16 @@ public class Player : MonoBehaviour
     void Start()
     {
         Health = MaxHealth;
-        Healthbar.SetHealth(Health, MaxHealth);
         anim = GetComponent<Animator>();
+    }
+    void Update()
+    {
+        Healthbar.SetHealth(Health, MaxHealth);
     }
 
     public void TakeDamage(float damage)
     {
         Health -= damage;
-        Healthbar.SetHealth(Health, MaxHealth);
         if (Health <= 0)
         {
             Health = 0;
