@@ -91677,6 +91677,10 @@ PrefabInstance:
       propertyPath: SwordAttackStabAudio
       value: 
       objectReference: {fileID: 1228064082}
+    - target: {fileID: 3404801120002280318, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
+      propertyPath: SwordAudio
+      value: 
+      objectReference: {fileID: 1228064082}
     - target: {fileID: 4298592277526838192, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.95
