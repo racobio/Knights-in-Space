@@ -78742,7 +78742,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &111210862
+--- !u!1 &47953392
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -78750,40 +78750,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 111210863}
-  - component: {fileID: 111210864}
-  m_Layer: 8
-  m_Name: 'shotgunSelectAudio '
+  - component: {fileID: 47953393}
+  - component: {fileID: 47953394}
+  m_Layer: 0
+  m_Name: 'SwordAttackStabAudio '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &111210863
+--- !u!4 &47953393
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 111210862}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_GameObject: {fileID: 47953392}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.031441, y: -1.014798, z: 0}
+  m_LocalScale: {x: 0.40516996, y: 0.44704738, z: 1}
   m_Children: []
-  m_Father: {fileID: 2096555603}
-  m_RootOrder: 3
+  m_Father: {fileID: 1228064083}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &111210864
+--- !u!82 &47953394
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 111210862}
+  m_GameObject: {fileID: 47953392}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 853af3d7fd14d6947af8496a348c6eed, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 847fa444ec90043f9914ed5ed9f5354c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c2493c438912e4bc3b45e343eb4b1351, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -78869,7 +78869,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!1 &150244581
+--- !u!1 &111210862
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -78877,40 +78877,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 150244582}
-  - component: {fileID: 150244583}
+  - component: {fileID: 111210863}
+  - component: {fileID: 111210864}
   m_Layer: 8
-  m_Name: Audio Source
+  m_Name: 'shotgunSelectAudio '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &150244582
+--- !u!4 &111210863
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 150244581}
+  m_GameObject: {fileID: 111210862}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4298592278128627487}
-  m_RootOrder: 2
+  m_Father: {fileID: 2096555603}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &150244583
+--- !u!82 &111210864
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 150244581}
+  m_GameObject: {fileID: 111210862}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 853af3d7fd14d6947af8496a348c6eed, type: 2}
-  m_audioClip: {fileID: 8300000, guid: b09f1f0f555164a0aa9d80a748f976d4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 847fa444ec90043f9914ed5ed9f5354c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -79855,7 +79855,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 853af3d7fd14d6947af8496a348c6eed, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 9bb829adc9c7e492cb84d7cc88500944, type: 3}
+  m_audioClip: {fileID: 8300000, guid: de4df5973d49847fe9550bf524d01d15, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -80673,6 +80673,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 566810979f80f5b46aa4b1c6ddfd2c80, type: 3}
+--- !u!1 &1228064082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1228064083}
+  m_Layer: 8
+  m_Name: SwordAttackStab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1228064083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1228064082}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 47953393}
+  m_Father: {fileID: 4298592278128627487}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!213 &1261652801
 Sprite:
   m_ObjectHideFlags: 0
@@ -91642,6 +91673,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3404801120002280318, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
+      propertyPath: SwordAttackStabAudio
+      value: 
+      objectReference: {fileID: 1228064082}
     - target: {fileID: 4298592277526838192, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.95
@@ -91692,6 +91727,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5354942987537773581, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7678029924106290123, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8534437753343315518, guid: 175c407cd3dc2024aaa1ccbcb6046f12, type: 3}
