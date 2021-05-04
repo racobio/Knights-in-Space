@@ -13,6 +13,7 @@ public class PlayerCombat : MonoBehaviour
     public float SwordAttRate = 2f;
     float SwordNextAttTime = 0f;
     public GameObject SelectSword;
+    public GameObject SwordAudio;
 
     //Laser
     public Transform LaserfirePoint;
@@ -49,18 +50,27 @@ public class PlayerCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.J))
             {
+                SwordAudio.SetActive(false);
                 SwordAttackStab();
                 SwordNextAttTime = Time.time + 1f / SwordAttRate;
+                SwordAudio.SetActive(true);
+
             }
             if (Input.GetKeyDown(KeyCode.K))
             {
+                SwordAudio.SetActive(false);
                 SwordAttackChop();
                 SwordNextAttTime = Time.time + 2f / SwordAttRate;
+                SwordAudio.SetActive(true);
+
             }
             if (Input.GetKeyDown(KeyCode.L))
             {
+                SwordAudio.SetActive(false);
                 SwordAttackUpward();
                 SwordNextAttTime = Time.time + 3f / SwordAttRate;
+                SwordAudio.SetActive(true);
+
             }
         }
 
