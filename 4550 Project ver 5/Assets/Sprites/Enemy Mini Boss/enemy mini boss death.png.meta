@@ -1,46 +1,49 @@
 fileFormatVersion: 2
-guid: 49c565acfc62c514d9bb684f863bf866
+guid: bae4d85e9cf583941941754040016616
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 314690655302672997
-    second: enemy melee 1 death_0
+      213: 5753462998952742563
+    second: enemy mini boss death_0
   - first:
-      213: 2999663161606633748
-    second: enemy melee 1 death_1
+      213: -1452457772893687828
+    second: enemy mini boss death_1
   - first:
-      213: 6461993844406378279
-    second: enemy melee 1 death_2
+      213: 2608129244174081569
+    second: enemy mini boss death_2
   - first:
-      213: 2447763800838228286
-    second: enemy melee 1 death_2
+      213: 9014467493814283971
+    second: enemy mini boss death_2
   - first:
-      213: -1638876299298987543
-    second: enemy melee 1 death_4
+      213: -7178199152471522047
+    second: enemy mini boss death_4
   - first:
-      213: -3945659829832607657
-    second: enemy melee 1 death_3
+      213: 208361652175724932
+    second: enemy mini boss death_5
   - first:
-      213: -183786198797136901
-    second: enemy melee 1 death_6
+      213: 4809710929301945635
+    second: enemy mini boss death_6
   - first:
-      213: -2673042429951271509
-    second: enemy melee 1 death_4
+      213: 4643038201910435701
+    second: enemy mini boss death_7
   - first:
-      213: -269294034583024663
-    second: enemy melee 1 death_5
+      213: 6482356895988893597
+    second: enemy mini boss death_8
   - first:
-      213: -4343421208621114070
-    second: enemy melee 1 death_9
+      213: 148751729564080161
+    second: enemy mini boss death_9
   - first:
-      213: -7186649099277117289
-    second: enemy melee 1 death_10
+      213: -1007222360975057694
+    second: enemy mini boss death_4
   - first:
-      213: -588244660724896523
-    second: enemy melee 1 death_11
+      213: 8950156720247251892
+    second: enemy mini boss death_3
   - first:
-      213: 5686304761515582307
-    second: enemy melee 1 death_12
+      213: 6375669183349988822
+    second: enemy mini boss death_5
+  - first:
+      213: 1317402125209599075
+    second: enemy mini boss death_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,12 +131,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy melee 1 death_0
+      name: enemy mini boss death_0
       rect:
         serializedVersion: 2
-        x: 37
+        x: 33
         y: 268
-        width: 38
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -142,176 +145,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5626373db710e5400800000000000000
-      internalID: 314690655302672997
+      spriteID: 3ae8ee84d1868df40800000000000000
+      internalID: 5753462998952742563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_1
+      name: enemy mini boss death_1
       rect:
         serializedVersion: 2
-        x: 142
-        y: 267
-        width: 42
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.521}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4197369a0c1f0a920800000000000000
-      internalID: 2999663161606633748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_2
-      rect:
-        serializedVersion: 2
-        x: 247
+        x: 131
         y: 268
-        width: 47
-        height: 61
+        width: 57
+        height: 67
       alignment: 9
-      pivot: {x: 0.5, y: 0.534}
+      pivot: {x: 0.6, y: 0.486}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e39c503453438f120800000000000000
-      internalID: 2447763800838228286
+      spriteID: cefaa6bd955d7dbe0800000000000000
+      internalID: -1452457772893687828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_3
+      name: enemy mini boss death_2
       rect:
         serializedVersion: 2
-        x: 28
+        x: 231
+        y: 268
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.64, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce2b18cc62d91d70800000000000000
+      internalID: 9014467493814283971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss death_4
+      rect:
+        serializedVersion: 2
+        x: 127
         y: 148
-        width: 43
-        height: 40
+        width: 59
+        height: 67
       alignment: 9
-      pivot: {x: 0.5, y: 0.812}
+      pivot: {x: 0.6, y: 0.485}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7589c4e2a433e39c0800000000000000
-      internalID: -3945659829832607657
+      spriteID: 2ec50446990a502f0800000000000000
+      internalID: -1007222360975057694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_4
+      name: enemy mini boss death_3
       rect:
         serializedVersion: 2
-        x: 138
+        x: 12
         y: 148
-        width: 43
-        height: 23
+        width: 63
+        height: 62
       alignment: 9
-      pivot: {x: 0.5, y: 1.414}
+      pivot: {x: 0.64, y: 0.523}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad1535821277ead0800000000000000
-      internalID: -2673042429951271509
+      spriteID: 4b3a96afd18553c70800000000000000
+      internalID: 8950156720247251892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_5
+      name: enemy mini boss death_5
       rect:
         serializedVersion: 2
-        x: 243
+        x: 245
         y: 148
-        width: 49
-        height: 9
+        width: 51
+        height: 42
       alignment: 9
-      pivot: {x: 0.5, y: 3.61}
+      pivot: {x: 0.537, y: 0.772}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9eb0c889086434cf0800000000000000
-      internalID: -269294034583024663
+      spriteID: 6dd1bfea75dea7850800000000000000
+      internalID: 6375669183349988822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_10
+      name: enemy mini boss death_6
       rect:
         serializedVersion: 2
-        x: 21
+        x: 25
         y: 28
         width: 51
-        height: 8
+        height: 42
       alignment: 9
-      pivot: {x: 0.5, y: 4.06}
+      pivot: {x: 0.537, y: 0.772}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 798d43088b4e34c90800000000000000
-      internalID: -7186649099277117289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_11
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 28
-        width: 54
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 4.65}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5fce874099226d7f0800000000000000
-      internalID: -588244660724896523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_12
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 28
-        width: 54
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 4.65}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 363afb2ad00d9ee40800000000000000
-      internalID: 5686304761515582307
+      spriteID: 36c7673c04a584210800000000000000
+      internalID: 1317402125209599075
       vertices: []
       indices: 
       edges: []

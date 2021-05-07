@@ -84,7 +84,8 @@ public class RoamEnemyRange : MonoBehaviour
         if (_player != null && gameObject.GetComponent<Enemy>().Health > 0)
         {
             _anim.SetBool("Idle", false);
-            _anim.SetBool("Attack", false);
+            _anim.SetBool("Attack Idle", false);
+            _anim.SetBool("Attack Move", false);
             if (_enemyRb.velocity.x > 0.1f || _enemyRb.velocity.x < 0.1f)
             {
                 _anim.SetBool("Move", true);
@@ -115,7 +116,8 @@ public class RoamEnemyRange : MonoBehaviour
             {
                 _anim.SetBool("Idle", false);
                 _anim.SetBool("Move", false);
-                _anim.SetBool("Attack", true);
+                _anim.SetBool("Attack Idle", false);
+                _anim.SetBool("Attack Move", true);
 
                 // enemy to the right of player 
                 if (transform.position.x >= _player.position.x)
@@ -148,7 +150,8 @@ public class RoamEnemyRange : MonoBehaviour
             {
                 _anim.SetBool("Idle", false);
                 _anim.SetBool("Move", false);
-                _anim.SetBool("Attack", true);
+                _anim.SetBool("Attack Idle", true);
+                _anim.SetBool("Attack Move", false);
 
                 _enemyRb.velocity = new Vector2(0, 0);
 
@@ -175,7 +178,7 @@ public class RoamEnemyRange : MonoBehaviour
         }
 
         // enemy attacking player
-        if (_hitPlayer)
+        if (_hitPlayer && Vector2.Distance(transform.position, _player.position) > _stopDistance)
         {
             // setting wait amount
             if (_timeBetweenAttacks <= 0f)
@@ -191,7 +194,7 @@ public class RoamEnemyRange : MonoBehaviour
                 // attack
                 if (_timeBetweenAttacks <= 0f)
                 {
-                    _anim.SetBool("Attack", true);
+                    _anim.SetBool("Attack Move", true);
                     Instantiate(_laser, _firePoint.position, Quaternion.identity);
                     //GameObject.Find("Player").GetComponent<Player>().TakeDamage(_damageDealt);
                     _timeBetweenAttacks = 0f;
@@ -200,7 +203,35 @@ public class RoamEnemyRange : MonoBehaviour
         }
         else if (!_hitPlayer)
         {
-            _anim.SetBool("Attack", false);
+            _anim.SetBool("Attack Move", false);
+        }
+
+        if (_hitPlayer && Vector2.Distance(transform.position, _player.position) <= _stopDistance)
+        {
+            // setting wait amount
+            if (_timeBetweenAttacks <= 0f)
+            {
+                _timeBetweenAttacks = _attackSpeed;
+            }
+
+            // waiting 
+            if (_timeBetweenAttacks > 0f)
+            {
+                _timeBetweenAttacks -= Time.deltaTime;
+
+                // attack
+                if (_timeBetweenAttacks <= 0f)
+                {
+                    _anim.SetBool("Attack Idle", true);
+                    Instantiate(_laser, _firePoint.position, Quaternion.identity);
+                    //GameObject.Find("Player").GetComponent<Player>().TakeDamage(_damageDealt);
+                    _timeBetweenAttacks = 0f;
+                }
+            }
+        }
+        else if (!_hitPlayer)
+        {
+            _anim.SetBool("Attack Idle", false);
         }
     }
 }
