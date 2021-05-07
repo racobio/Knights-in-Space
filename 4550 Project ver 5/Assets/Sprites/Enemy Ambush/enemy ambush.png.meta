@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 22f0e495f3e0a4b43852315366e9ddba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9036896815150959946
+    second: enemy ambush_0
+  - first:
+      213: -7013604485738501010
+    second: enemy ambush_1
+  - first:
+      213: 2885676166880404028
+    second: enemy ambush_2
+  - first:
+      213: -4027795448756395565
+    second: enemy ambush_3
+  - first:
+      213: 5759784918345716718
+    second: enemy ambush_4
+  - first:
+      213: 5191900752856772698
+    second: enemy ambush_5
+  - first:
+      213: 8120585597702766962
+    second: enemy ambush_6
+  - first:
+      213: -4681425927797309131
+    second: enemy ambush_7
+  - first:
+      213: 1568820322101479802
+    second: enemy ambush_8
+  - first:
+      213: 3163028787981173582
+    second: enemy ambush_9
+  - first:
+      213: 5765660679447779755
+    second: enemy ambush_10
+  - first:
+      213: -3307911714574403973
+    second: enemy ambush_11
+  - first:
+      213: 3723662642611451876
+    second: enemy ambush_12
+  - first:
+      213: -3833587561873202047
+    second: enemy ambush_13
+  - first:
+      213: 6247999548993214744
+    second: enemy ambush_14
+  - first:
+      213: -6965334047287238255
+    second: enemy ambush_14
+  - first:
+      213: -7705586295213417650
+    second: enemy ambush_15
+  - first:
+      213: -4433983934853338830
+    second: enemy ambush_16
+  - first:
+      213: 247575186606378776
+    second: enemy ambush_17
+  - first:
+      213: 4787464108798812235
+    second: enemy ambush_18
+  - first:
+      213: -6311753390883613070
+    second: enemy ambush_19
+  - first:
+      213: -7386438860073814319
+    second: enemy ambush_20
+  - first:
+      213: -6198881748738519136
+    second: enemy ambush_21
+  - first:
+      213: 5321539016940858277
+    second: enemy ambush_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy ambush_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 628
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27115e93e769280800000000000000
+      internalID: -9036896815150959946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 628
+        width: 27
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c687041ebaaae90800000000000000
+      internalID: -7013604485738501010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 628
+        width: 28
+        height: 66
+      alignment: 9
+      pivot: {x: 0.52, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a7bf4f2bfb0820800000000000000
+      internalID: 2885676166880404028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 628
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1a0f821656a18c0800000000000000
+      internalID: -4027795448756395565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 508
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee316a8dddddeef40800000000000000
+      internalID: 5759784918345716718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 508
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a507c131a365d0840800000000000000
+      internalID: 5191900752856772698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 508
+        width: 28
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710a3f839d12b070800000000000000
+      internalID: 8120585597702766962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 508
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53186530ceb380fb0800000000000000
+      internalID: -4681425927797309131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 388
+        width: 32
+        height: 68
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c54f55c195c510800000000000000
+      internalID: 1568820322101479802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 388
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c3f99ce555eb20800000000000000
+      internalID: 3163028787981173582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba91ce517ddb30050800000000000000
+      internalID: 5765660679447779755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 388
+        width: 34
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76707852dfe712d0800000000000000
+      internalID: -3307911714574403973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 268
+        width: 42
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77f34d17b1da330800000000000000
+      internalID: 3723662642611451876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 56
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18421377c6c5ccac0800000000000000
+      internalID: -3833587561873202047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 268
+        width: 78
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a2818699265f90800000000000000
+      internalID: -6965334047287238255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 268
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9fa72712401590800000000000000
+      internalID: -7705586295213417650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 148
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.57, y: 0.493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239274f7a135772c0800000000000000
+      internalID: -4433983934853338830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.55, y: 0.566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fcfdc02509f6300800000000000000
+      internalID: 247575186606378776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 148
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.52, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a2ebed3d707240800000000000000
+      internalID: 4787464108798812235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 148
+        width: 57
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 1.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d38a6bb52868a0800000000000000
+      internalID: -6311753390883613070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 64
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b826edf81e7990800000000000000
+      internalID: -7386438860073814319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy ambush_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 69
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 3.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc9c184e529f9a0800000000000000
+      internalID: -6198881748738519136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

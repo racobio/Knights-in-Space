@@ -1,46 +1,31 @@
 fileFormatVersion: 2
-guid: 49c565acfc62c514d9bb684f863bf866
+guid: b12864d1be5b91b4c9ad644399b5fc5c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 314690655302672997
-    second: enemy melee 1 death_0
+      213: 8872199698722739718
+    second: enemy range 1 attack move_0
   - first:
-      213: 2999663161606633748
-    second: enemy melee 1 death_1
+      213: 7228805064643811308
+    second: enemy range 1 attack move_1
   - first:
-      213: 6461993844406378279
-    second: enemy melee 1 death_2
+      213: -7041599030267037301
+    second: enemy range 1 attack move_2
   - first:
-      213: 2447763800838228286
-    second: enemy melee 1 death_2
+      213: -3043420387265141423
+    second: enemy range 1 attack move_3
   - first:
-      213: -1638876299298987543
-    second: enemy melee 1 death_4
+      213: -8297547747116371986
+    second: enemy range 1 attack move_4
   - first:
-      213: -3945659829832607657
-    second: enemy melee 1 death_3
+      213: 2338794184933789190
+    second: enemy range 1 attack move_5
   - first:
-      213: -183786198797136901
-    second: enemy melee 1 death_6
+      213: -7356800007602109347
+    second: enemy range 1 attack move_6
   - first:
-      213: -2673042429951271509
-    second: enemy melee 1 death_4
-  - first:
-      213: -269294034583024663
-    second: enemy melee 1 death_5
-  - first:
-      213: -4343421208621114070
-    second: enemy melee 1 death_9
-  - first:
-      213: -7186649099277117289
-    second: enemy melee 1 death_10
-  - first:
-      213: -588244660724896523
-    second: enemy melee 1 death_11
-  - first:
-      213: 5686304761515582307
-    second: enemy melee 1 death_12
+      213: 6769579303150447982
+    second: enemy range 1 attack move_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,190 +113,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy melee 1 death_0
+      name: enemy range 1 attack move_0
       rect:
         serializedVersion: 2
-        x: 37
+        x: 33
+        y: 268
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60652ba7e92602b70800000000000000
+      internalID: 8872199698722739718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy range 1 attack move_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 268
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce793ac08efd15460800000000000000
+      internalID: 7228805064643811308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy range 1 attack move_2
+      rect:
+        serializedVersion: 2
+        x: 258
         y: 268
         width: 38
         height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5626373db710e5400800000000000000
-      internalID: 314690655302672997
+      spriteID: b89b23e6df6374e90800000000000000
+      internalID: -7041599030267037301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_1
+      name: enemy range 1 attack move_3
       rect:
         serializedVersion: 2
-        x: 142
-        y: 267
-        width: 42
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.521}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4197369a0c1f0a920800000000000000
-      internalID: 2999663161606633748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_2
-      rect:
-        serializedVersion: 2
-        x: 247
-        y: 268
-        width: 47
-        height: 61
-      alignment: 9
-      pivot: {x: 0.5, y: 0.534}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e39c503453438f120800000000000000
-      internalID: 2447763800838228286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_3
-      rect:
-        serializedVersion: 2
-        x: 28
+        x: 34
         y: 148
-        width: 43
-        height: 40
-      alignment: 9
-      pivot: {x: 0.5, y: 0.812}
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7589c4e2a433e39c0800000000000000
-      internalID: -3945659829832607657
+      spriteID: 15521e2584993c5d0800000000000000
+      internalID: -3043420387265141423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_4
+      name: enemy range 1 attack move_4
       rect:
         serializedVersion: 2
-        x: 138
+        x: 150
         y: 148
-        width: 43
-        height: 23
-      alignment: 9
-      pivot: {x: 0.5, y: 1.414}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bad1535821277ead0800000000000000
-      internalID: -2673042429951271509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_5
-      rect:
-        serializedVersion: 2
-        x: 243
-        y: 148
-        width: 49
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 3.61}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9eb0c889086434cf0800000000000000
-      internalID: -269294034583024663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy melee 1 death_10
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 28
         width: 51
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 4.06}
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 798d43088b4e34c90800000000000000
-      internalID: -7186649099277117289
+      spriteID: eef294a494039dc80800000000000000
+      internalID: -8297547747116371986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_11
+      name: enemy range 1 attack move_5
       rect:
         serializedVersion: 2
-        x: 129
-        y: 28
-        width: 54
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 4.65}
+        x: 255
+        y: 148
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fce874099226d7f0800000000000000
-      internalID: -588244660724896523
+      spriteID: 60e4ab37be0157020800000000000000
+      internalID: 2338794184933789190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy melee 1 death_12
+      name: enemy range 1 attack move_6
       rect:
         serializedVersion: 2
-        x: 239
+        x: 29
         y: 28
-        width: 54
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 4.65}
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 363afb2ad00d9ee40800000000000000
-      internalID: 5686304761515582307
+      spriteID: e6d6e1b628062fd50800000000000000
+      internalID: 6769579303150447982
       vertices: []
       indices: 
       edges: []
