@@ -1,0 +1,1454 @@
+fileFormatVersion: 2
+guid: 6ed5304764d0fa0449fe2b8c1f08d3ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6471026864330903730
+    second: 2SpaceStationGroundTiles_0
+  - first:
+      213: -4654054481870870853
+    second: 2SpaceStationGroundTiles_1
+  - first:
+      213: -1513036831719503563
+    second: 2SpaceStationGroundTiles_2
+  - first:
+      213: 9051270100149667116
+    second: 2SpaceStationGroundTiles_3
+  - first:
+      213: 6447357525232552499
+    second: 2SpaceStationGroundTiles_4
+  - first:
+      213: -6274189068399941293
+    second: 2SpaceStationGroundTiles_5
+  - first:
+      213: 8995164861259756951
+    second: 2SpaceStationGroundTiles_6
+  - first:
+      213: -3764521150948591897
+    second: 2SpaceStationGroundTiles_7
+  - first:
+      213: -2803613287420554951
+    second: 2SpaceStationGroundTiles_8
+  - first:
+      213: 860703361204493700
+    second: 2SpaceStationGroundTiles_9
+  - first:
+      213: 2578004627242976620
+    second: 2SpaceStationGroundTiles_10
+  - first:
+      213: 6396583722898570697
+    second: 2SpaceStationGroundTiles_11
+  - first:
+      213: -7242953161414699414
+    second: 2SpaceStationGroundTiles_12
+  - first:
+      213: 6178561546514721480
+    second: 2SpaceStationGroundTiles_13
+  - first:
+      213: 6019629212763104877
+    second: 2SpaceStationGroundTiles_14
+  - first:
+      213: -4229381448014830147
+    second: 2SpaceStationGroundTiles_15
+  - first:
+      213: 4946300329639099188
+    second: 2SpaceStationGroundTiles_16
+  - first:
+      213: 2954773862903872385
+    second: 2SpaceStationGroundTiles_17
+  - first:
+      213: -5354725276124130044
+    second: 2SpaceStationGroundTiles_18
+  - first:
+      213: -4751358951077551920
+    second: 2SpaceStationGroundTiles_19
+  - first:
+      213: 56168675284072015
+    second: 2SpaceStationGroundTiles_20
+  - first:
+      213: 6105177916090280453
+    second: 2SpaceStationGroundTiles_21
+  - first:
+      213: 7643084130248827888
+    second: 2SpaceStationGroundTiles_22
+  - first:
+      213: 8744667177008530574
+    second: 2SpaceStationGroundTiles_23
+  - first:
+      213: 966959831244865973
+    second: 2SpaceStationGroundTiles_24
+  - first:
+      213: 4007657183053511746
+    second: 2SpaceStationGroundTiles_25
+  - first:
+      213: -7377153063104806647
+    second: 2SpaceStationGroundTiles_26
+  - first:
+      213: -3175124581145590541
+    second: 2SpaceStationGroundTiles_27
+  - first:
+      213: -7662771090258113748
+    second: 2SpaceStationGroundTiles_28
+  - first:
+      213: -9076927944355999589
+    second: 2SpaceStationGroundTiles_29
+  - first:
+      213: 6603709687388568831
+    second: 2SpaceStationGroundTiles_30
+  - first:
+      213: -7135329087906043545
+    second: 2SpaceStationGroundTiles_31
+  - first:
+      213: 4325510842208920156
+    second: 2SpaceStationGroundTiles_32
+  - first:
+      213: 6700785144627371432
+    second: 2SpaceStationGroundTiles_33
+  - first:
+      213: -4974011957017840358
+    second: 2SpaceStationGroundTiles_34
+  - first:
+      213: 6102493372784867689
+    second: 2SpaceStationGroundTiles_35
+  - first:
+      213: 1269872531366547079
+    second: 2SpaceStationGroundTiles_36
+  - first:
+      213: 4005120877790729291
+    second: 2SpaceStationGroundTiles_37
+  - first:
+      213: -8144046833809537704
+    second: 2SpaceStationGroundTiles_38
+  - first:
+      213: 597681340860488895
+    second: 2SpaceStationGroundTiles_39
+  - first:
+      213: -7365622732689290141
+    second: 2SpaceStationGroundTiles_40
+  - first:
+      213: 5527729115733300765
+    second: 2SpaceStationGroundTiles_41
+  - first:
+      213: -1746720126185202989
+    second: 2SpaceStationGroundTiles_42
+  - first:
+      213: -3201604851531761363
+    second: 2SpaceStationGroundTiles_43
+  - first:
+      213: 6078017107610311864
+    second: 2SpaceStationGroundTiles_44
+  - first:
+      213: 3644320862620064481
+    second: 2SpaceStationGroundTiles_45
+  - first:
+      213: 3206020843615511120
+    second: 2SpaceStationGroundTiles_46
+  - first:
+      213: 2829176590873840593
+    second: 2SpaceStationGroundTiles_47
+  - first:
+      213: 3377568793619216267
+    second: 2SpaceStationGroundTiles_48
+  - first:
+      213: 5637536388922619136
+    second: 2SpaceStationGroundTiles_49
+  - first:
+      213: 5938107708898444997
+    second: 2SpaceStationGroundTiles_50
+  - first:
+      213: -1166668456925188221
+    second: 2SpaceStationGroundTiles_51
+  - first:
+      213: 1159662245722345122
+    second: 2SpaceStationGroundTiles_52
+  - first:
+      213: 7390352398922045802
+    second: 2SpaceStationGroundTiles_53
+  - first:
+      213: 4959083086681940236
+    second: 2SpaceStationGroundTiles_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0147ce5a4bdc950800000000000000
+      internalID: 6471026864330903730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a5c26b1a796fb0800000000000000
+      internalID: -4654054481870870853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c649940d900be0800000000000000
+      internalID: -1513036831719503563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25098d43329c9d70800000000000000
+      internalID: 9051270100149667116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a8d67728d997950800000000000000
+      internalID: 6447357525232552499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e16cc84a9de8a0800000000000000
+      internalID: -6274189068399941293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b67b68ce35dc70800000000000000
+      internalID: 8995164861259756951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b34065fbb1cbc0800000000000000
+      internalID: -3764521150948591897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319bbbb1909719d0800000000000000
+      internalID: -2803613287420554951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d14959525d1fb00800000000000000
+      internalID: 860703361204493700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658124bc89e6c320800000000000000
+      internalID: 2578004627242976620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3a63610b35c850800000000000000
+      internalID: 6396583722898570697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669519797cdb7b90800000000000000
+      internalID: -7242953161414699414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae5eabdf8aeb550800000000000000
+      internalID: 6178561546514721480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662f4a20e40a8350800000000000000
+      internalID: 6019629212763104877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e2733bf73e45c0800000000000000
+      internalID: -4229381448014830147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b398471f9c4a440800000000000000
+      internalID: 4946300329639099188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_17
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b7ef95c27710920800000000000000
+      internalID: 2954773862903872385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d0de5bb130b5b0800000000000000
+      internalID: -5354725276124130044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d066a03538cf0eb0800000000000000
+      internalID: -4751358951077551920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46bfc1dc1d87c000800000000000000
+      internalID: 56168675284072015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aee13d7f2f9b450800000000000000
+      internalID: 6105177916090280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f328eb8580b11a60800000000000000
+      internalID: 7643084130248827888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848c9c577c4b5970800000000000000
+      internalID: 8744667177008530574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10c65e7d45b6d00800000000000000
+      internalID: 966959831244865973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c727979fe0e9730800000000000000
+      internalID: 4007657183053511746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90104fbff561f9990800000000000000
+      internalID: -7377153063104806647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c4371401bfe3d0800000000000000
+      internalID: -3175124581145590541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4802ea4e58a590800000000000000
+      internalID: -7662771090258113748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9018d05026480280800000000000000
+      internalID: -9076927944355999589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf99409f615ab50800000000000000
+      internalID: 6603709687388568831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76929d7cff73afc90800000000000000
+      internalID: -7135329087906043545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a6f5813d470c30800000000000000
+      internalID: 4325510842208920156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9ab53698fdfc50800000000000000
+      internalID: 6700785144627371432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15f7618a72c8fab0800000000000000
+      internalID: -4974011957017840358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697401e36960b450800000000000000
+      internalID: 6102493372784867689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0126d65e7f9110800000000000000
+      internalID: 1269872531366547079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b449733e73c059730800000000000000
+      internalID: 4005120877790729291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85543acbd888afe80800000000000000
+      internalID: -8144046833809537704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5eda43046b4800800000000000000
+      internalID: 597681340860488895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c438c362d08c990800000000000000
+      internalID: -7365622732689290141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -11}
+        - {x: 6, y: -5}
+        - {x: -6, y: 7}
+        - {x: -18, y: 19}
+        - {x: -24, y: 25}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 24, y: -23}
+        - {x: 18, y: -17}
+      tessellationDetail: 0.32
+      bones: []
+      spriteID: d161ed5f75076bc40800000000000000
+      internalID: 5527729115733300765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 25}
+        - {x: 18, y: 19}
+        - {x: -24, y: -23}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da94bcbc4762c7e0800000000000000
+      internalID: -1746720126185202989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293841b95d9193d0800000000000000
+      internalID: -3201604851531761363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1cdd4b54795450800000000000000
+      internalID: 6078017107610311864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea9300248a339230800000000000000
+      internalID: 3644320862620064481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 25}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 24, y: -23}
+        - {x: -5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052633698f21e7c20800000000000000
+      internalID: 3206020843615511120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 25}
+        - {x: 12, y: 13}
+        - {x: -24, y: -23}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc2e9ae11434720800000000000000
+      internalID: 2829176590873840593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873e143ce88fde20800000000000000
+      internalID: 3377568793619216267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005321e0a7d8c3e40800000000000000
+      internalID: 5637536388922619136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c686e2ff75686250800000000000000
+      internalID: 5938107708898444997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f225e38392fcfe0800000000000000
+      internalID: -1166668456925188221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae46b71ba2f71010800000000000000
+      internalID: 1159662245722345122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 48
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6954bed95ecf8660800000000000000
+      internalID: 7390352398922045802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2SpaceStationGroundTiles_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0123510bc332d440800000000000000
+      internalID: 4959083086681940236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
