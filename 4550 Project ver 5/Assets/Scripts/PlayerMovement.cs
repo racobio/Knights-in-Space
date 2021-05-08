@@ -10,10 +10,11 @@ public class PlayerMovement : MonoBehaviour {
 
 	float horizontalMove = 0f;
 	bool jump = false;
-	
+    bool dash = false;
+    
 
-	// Update is called once per frame
-	void Update () {
+    // Update is called once per frame
+    void Update () {
 
 		horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
 
@@ -26,6 +27,11 @@ public class PlayerMovement : MonoBehaviour {
 			animator.SetBool("IsJumping", true);
 		}
 
+        if (Input.GetButtonDown("Dash"))
+        {
+            dash = true;
+            animator.SetTrigger("Dash");
+        }
 		
 
 	}
@@ -40,7 +46,8 @@ public class PlayerMovement : MonoBehaviour {
 	void FixedUpdate ()
 	{
 		// Move our character
-		controller.Move(horizontalMove * Time.fixedDeltaTime, jump);
+		StartCoroutine(controller.Move(horizontalMove * Time.fixedDeltaTime, jump, dash));
 		jump = false;
+        dash = false;
 	}
 }
