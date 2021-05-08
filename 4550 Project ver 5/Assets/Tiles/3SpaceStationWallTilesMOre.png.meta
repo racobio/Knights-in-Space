@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 0a5161f9a88aaa5489b5b7f0ecb7b136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6596300702996220204
+    second: 3SpaceStationWallTilesMOre_0
+  - first:
+      213: -930565863327094988
+    second: 3SpaceStationWallTilesMOre_1
+  - first:
+      213: 7347233679974119422
+    second: 3SpaceStationWallTilesMOre_2
+  - first:
+      213: 731057410189601458
+    second: 3SpaceStationWallTilesMOre_3
+  - first:
+      213: -4690935782526522709
+    second: 3SpaceStationWallTilesMOre_4
+  - first:
+      213: 1544593223017811391
+    second: 3SpaceStationWallTilesMOre_5
+  - first:
+      213: -5954009577219524195
+    second: 3SpaceStationWallTilesMOre_6
+  - first:
+      213: 4734462487045134412
+    second: 3SpaceStationWallTilesMOre_7
+  - first:
+      213: 1217547139429564832
+    second: 3SpaceStationWallTilesMOre_8
+  - first:
+      213: 8485900157171622834
+    second: 3SpaceStationWallTilesMOre_9
+  - first:
+      213: 7730771484531455925
+    second: 3SpaceStationWallTilesMOre_10
+  - first:
+      213: 6158678297485559096
+    second: 3SpaceStationWallTilesMOre_11
+  - first:
+      213: -8008420237961623776
+    second: 3SpaceStationWallTilesMOre_12
+  - first:
+      213: -8985009050993550118
+    second: 3SpaceStationWallTilesMOre_13
+  - first:
+      213: 2867877629429305561
+    second: 3SpaceStationWallTilesMOre_14
+  - first:
+      213: 8341277605929593773
+    second: 3SpaceStationWallTilesMOre_15
+  - first:
+      213: -5424487253532173148
+    second: 3SpaceStationWallTilesMOre_16
+  - first:
+      213: 881470422119164015
+    second: 3SpaceStationWallTilesMOre_17
+  - first:
+      213: -7896883432929808638
+    second: 3SpaceStationWallTilesMOre_18
+  - first:
+      213: -6393905869873469311
+    second: 3SpaceStationWallTilesMOre_19
+  - first:
+      213: -4409858405705379315
+    second: 3SpaceStationWallTilesMOre_20
+  - first:
+      213: 647872892944824507
+    second: 3SpaceStationWallTilesMOre_21
+  - first:
+      213: -5701082949568650578
+    second: 3SpaceStationWallTilesMOre_22
+  - first:
+      213: 3315687404447692750
+    second: 3SpaceStationWallTilesMOre_23
+  - first:
+      213: 5390540182561163093
+    second: 3SpaceStationWallTilesMOre_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d63046957b3574a0800000000000000
+      internalID: -6596300702996220204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437a8441747f513f0800000000000000
+      internalID: -930565863327094988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b4a8ca1e96f560800000000000000
+      internalID: 7347233679974119422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 285
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa4cc57dc352a00800000000000000
+      internalID: 731057410189601458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa665a62c276eeb0800000000000000
+      internalID: -4690935782526522709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc37c4a5f7f6510800000000000000
+      internalID: 1544593223017811391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997e80d5db1f5da0800000000000000
+      internalID: -5954009577219524195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48dcb63c8034b140800000000000000
+      internalID: 4734462487045134412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10ef62ca895e010800000000000000
+      internalID: 1217547139429564832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b365a39b39f3c570800000000000000
+      internalID: 8485900157171622834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7773fa4b7394b60800000000000000
+      internalID: 7730771484531455925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c88f0845087550800000000000000
+      internalID: 6158678297485559096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278f3859306cd090800000000000000
+      internalID: -8008420237961623776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1cdb6fd5de4380800000000000000
+      internalID: -8985009050993550118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05c61628fbcc720800000000000000
+      internalID: 2867877629429305561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabaa52e9cb22c370800000000000000
+      internalID: 8341277605929593773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9494459958b4b0800000000000000
+      internalID: -5424487253532173148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 149
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f682d6ebdac9b3c00800000000000000
+      internalID: 881470422119164015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2d837b52a86290800000000000000
+      internalID: -7896883432929808638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18828eadc784447a0800000000000000
+      internalID: -6393905869873469311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02192af4290dc2c0800000000000000
+      internalID: -4409858405705379315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b49ba6f4bdf800800000000000000
+      internalID: 647872892944824507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ace3534fa1e0b0800000000000000
+      internalID: -5701082949568650578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 81
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec777588020b30e20800000000000000
+      internalID: 3315687404447692750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3SpaceStationWallTilesMOre_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55707095cbb0fca40800000000000000
+      internalID: 5390540182561163093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
