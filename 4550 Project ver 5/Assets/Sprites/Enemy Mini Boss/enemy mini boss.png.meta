@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: ee1e59dd5fdebf3479ba2ef154b23369
+guid: 0b2bca16e4e399540845c175ce956520
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7757156490913352282
-    second: enemy range 1_0
+      213: -3181118943931008577
+    second: enemy mini boss_0
   - first:
-      213: 1132143820535459442
-    second: enemy range 1_1
+      213: -360961362418696398
+    second: enemy mini boss_1
   - first:
-      213: -9165538524438871512
-    second: enemy range 1_2
+      213: 4349278450134394292
+    second: enemy mini boss_2
   - first:
-      213: -3597007659339539470
-    second: enemy range 1_3
+      213: 2286816085484291377
+    second: enemy mini boss_3
   - first:
-      213: -3991108945829169421
-    second: enemy range 1_4
+      213: 6746336068539411367
+    second: enemy mini boss_4
   - first:
-      213: -496477782007184607
-    second: enemy range 1_5
+      213: -3583907111606123724
+    second: enemy mini boss_5
   - first:
-      213: 5386698511296256949
-    second: enemy range 1_6
+      213: 5453804753819682349
+    second: enemy mini boss_6
   - first:
-      213: -5836817673886414150
-    second: enemy range 1_7
+      213: 4799576927982678215
+    second: enemy mini boss_7
   - first:
-      213: 6424305821258281745
-    second: enemy range 1_8
+      213: 6443531497266586771
+    second: enemy mini boss_8
   - first:
-      213: 2822062059194874742
-    second: enemy range 1_9
+      213: -4949977061935415366
+    second: enemy mini boss_9
   - first:
-      213: 2481814343995408513
-    second: enemy range 1_10
+      213: 6691932562569693767
+    second: enemy mini boss_10
   - first:
-      213: -4994329626414551536
-    second: enemy range 1_11
+      213: 6881013831693842153
+    second: enemy mini boss_11
   - first:
-      213: 4075973485909757736
-    second: enemy range 1_12
+      213: 5418004570226901603
+    second: enemy mini boss_12
   - first:
-      213: -6319951777298548803
-    second: enemy range 1_13
+      213: 7744266268952310019
+    second: enemy mini boss_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -131,12 +131,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy range 1_0
+      name: enemy mini boss_0
       rect:
         serializedVersion: 2
         x: 33
         y: 388
-        width: 42
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -145,145 +145,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a8104bab4f6ab60800000000000000
-      internalID: 7757156490913352282
+      spriteID: fb9f9bebc256ad3d0800000000000000
+      internalID: -3181118943931008577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_1
+      name: enemy mini boss_1
       rect:
         serializedVersion: 2
         x: 143
         y: 388
-        width: 42
+        width: 45
         height: 66
       alignment: 9
-      pivot: {x: 0.5, y: 0.4925}
+      pivot: {x: 0.5, y: 0.495}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e6ba17ece26bf00800000000000000
-      internalID: 1132143820535459442
+      spriteID: 23f7467ad8b9dfaf0800000000000000
+      internalID: -360961362418696398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_2
+      name: enemy mini boss_2
       rect:
         serializedVersion: 2
         x: 253
         y: 388
-        width: 42
+        width: 45
         height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.508}
+      pivot: {x: 0.5, y: 0.51}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 822c9abe5477dc080800000000000000
-      internalID: -9165538524438871512
+      spriteID: 4b5a589f4bdbb5c30800000000000000
+      internalID: 4349278450134394292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_3
+      name: enemy mini boss_3
       rect:
         serializedVersion: 2
         x: 363
         y: 388
-        width: 42
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fb15b2779cd41ec0800000000000000
-      internalID: -3597007659339539470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1_4
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 268
-        width: 41
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f6f7ff3f8bbc98c0800000000000000
-      internalID: -3991108945829169421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1_5
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 268
-        width: 37
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 123869476182c19f0800000000000000
-      internalID: -496477782007184607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1_6
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 268
-        width: 41
+        width: 45
         height: 65
       alignment: 9
-      pivot: {x: 0.55, y: 0.5}
+      pivot: {x: 0.5, y: 0.502}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bb50fd81c561ca40800000000000000
-      internalID: 5386698511296256949
+      spriteID: 135c0f91d176cbf10800000000000000
+      internalID: 2286816085484291377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_7
+      name: enemy mini boss_4
       rect:
         serializedVersion: 2
-        x: 368
+        x: 34
         y: 268
-        width: 37
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -292,19 +229,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aba474910457ffea0800000000000000
-      internalID: -5836817673886414150
+      spriteID: 7ab62b429eccf9d50800000000000000
+      internalID: 6746336068539411367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_8
+      name: enemy mini boss_5
       rect:
         serializedVersion: 2
-        x: 35
-        y: 148
-        width: 41
+        x: 144
+        y: 268
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -313,40 +250,103 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 113f2946b18b72950800000000000000
-      internalID: 6424305821258281745
+      spriteID: 43388b86877634ec0800000000000000
+      internalID: -3583907111606123724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_9
+      name: enemy mini boss_6
       rect:
         serializedVersion: 2
-        x: 139
-        y: 148
-        width: 46
+        x: 255
+        y: 268
+        width: 45
         height: 65
       alignment: 9
-      pivot: {x: 0.55, y: 0.5}
+      pivot: {x: 0.4785, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67bfa6cad7af92720800000000000000
-      internalID: 2822062059194874742
+      spriteID: d2642c1378ecfab40800000000000000
+      internalID: 5453804753819682349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_10
+      name: enemy mini boss_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0719869c58b9240800000000000000
+      internalID: 4799576927982678215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ad99e1c50c6950800000000000000
+      internalID: 6443531497266586771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 45
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff10996162e4bb0800000000000000
+      internalID: -4949977061935415366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss_10
       rect:
         serializedVersion: 2
         x: 253
         y: 148
-        width: 42
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -355,71 +355,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 180c0542ffc217220800000000000000
-      internalID: 2481814343995408513
+      spriteID: 74a06d4d5358edc50800000000000000
+      internalID: 6691932562569693767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_11
+      name: enemy mini boss_11
       rect:
         serializedVersion: 2
         x: 364
         y: 148
-        width: 43
+        width: 45
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.477, y: 0.5077}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01ee9567aa390bab0800000000000000
-      internalID: -4994329626414551536
+      spriteID: 9e639ac6f954e7f50800000000000000
+      internalID: 6881013831693842153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_12
+      name: enemy mini boss_12
       rect:
         serializedVersion: 2
-        x: 37
+        x: 34
         y: 28
-        width: 57
-        height: 64
+        width: 59
+        height: 65
       alignment: 9
-      pivot: {x: 0.325, y: 0.5}
+      pivot: {x: 0.3652, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82fcf8d3a44c09830800000000000000
-      internalID: 4075973485909757736
+      spriteID: 36241d7637e903b40800000000000000
+      internalID: 5418004570226901603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1_13
+      name: enemy mini boss_13
       rect:
         serializedVersion: 2
-        x: 147
+        x: 143
         y: 28
-        width: 56
-        height: 64
+        width: 54
+        height: 65
       alignment: 9
-      pivot: {x: 0.33, y: 0.5}
+      pivot: {x: 0.418, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db77584d7550b48a0800000000000000
-      internalID: -6319951777298548803
+      spriteID: 30131f60429297b60800000000000000
+      internalID: 7744266268952310019
       vertices: []
       indices: 
       edges: []

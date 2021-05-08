@@ -1,34 +1,19 @@
 fileFormatVersion: 2
-guid: dcb8a90dd74715643ab5bf07a9186f5d
+guid: 37a6dec810133e447b5b9c171261d57a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1672606112444770873
-    second: enemy range 1 death_0
+      213: -8898831817461874077
+    second: enemy mini boss melee_0
   - first:
-      213: 200367320136425551
-    second: enemy range 1 death_1
+      213: 8111527611465001582
+    second: enemy mini boss melee_1
   - first:
-      213: 5974600700846122798
-    second: enemy range 1 death_2
+      213: 1824306106488703939
+    second: enemy mini boss melee_2
   - first:
-      213: -6492322489060527341
-    second: enemy range 1 death_3
-  - first:
-      213: -7500477522372373766
-    second: enemy range 1 death_4
-  - first:
-      213: 8385744812026961556
-    second: enemy range 1 death_5
-  - first:
-      213: -6777697264762501586
-    second: enemy range 1 death_6
-  - first:
-      213: 7261576191477941278
-    second: enemy range 1 death_7
-  - first:
-      213: 8180161571264148153
-    second: enemy range 1 death_8
+      213: -1967923831431276037
+    second: enemy mini boss melee_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -116,12 +101,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy range 1 death_0
+      name: enemy mini boss melee_0
       rect:
         serializedVersion: 2
         x: 33
-        y: 268
-        width: 42
+        y: 28
+        width: 45
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -130,155 +115,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93aea6db56a463710800000000000000
-      internalID: 1672606112444770873
+      spriteID: 362cd3c2c9ff08480800000000000000
+      internalID: -8898831817461874077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1 death_1
+      name: enemy mini boss melee_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 268
+        x: 139
+        y: 28
         width: 39
-        height: 66
+        height: 65
       alignment: 9
-      pivot: {x: 0.55, y: 0.49}
+      pivot: {x: 0.6, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f40245d1409d7c200800000000000000
-      internalID: 200367320136425551
+      spriteID: e6ae42bc26fe19070800000000000000
+      internalID: 8111527611465001582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1 death_2
+      name: enemy mini boss melee_2
       rect:
         serializedVersion: 2
-        x: 258
-        y: 268
-        width: 36
-        height: 59
-      alignment: 9
-      pivot: {x: 0.5, y: 0.55}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e27abb0ceab0ae250800000000000000
-      internalID: 5974600700846122798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1 death_3
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 148
+        x: 238
+        y: 28
         width: 42
-        height: 53
+        height: 63
       alignment: 9
-      pivot: {x: 0.5, y: 0.62}
+      pivot: {x: 0.8, y: 0.515}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31374401813a6e5a0800000000000000
-      internalID: -6492322489060527341
+      spriteID: 3cbc5defcbc315910800000000000000
+      internalID: 1824306106488703939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy range 1 death_4
+      name: enemy mini boss melee_3
       rect:
         serializedVersion: 2
-        x: 142
-        y: 148
-        width: 44
-        height: 45
-      alignment: 9
-      pivot: {x: 0.5, y: 0.73}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af25131ce63f8e790800000000000000
-      internalID: -7500477522372373766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1 death_5
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 148
-        width: 44
-        height: 45
-      alignment: 9
-      pivot: {x: 0.5, y: 0.73}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49e11f91a76206470800000000000000
-      internalID: 8385744812026961556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1 death_6
-      rect:
-        serializedVersion: 2
-        x: 32
+        x: 355
         y: 28
-        width: 44
-        height: 45
+        width: 81
+        height: 62
       alignment: 9
-      pivot: {x: 0.5, y: 0.73}
+      pivot: {x: 0.3, y: 0.522}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26c1ba5f38c0f1a0800000000000000
-      internalID: -6777697264762501586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy range 1 death_7
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 28
-        width: 44
-        height: 45
-      alignment: 9
-      pivot: {x: 0.5, y: 0.73}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e140a7a921d46c460800000000000000
-      internalID: 7261576191477941278
+      spriteID: bf9538aa3b780b4e0800000000000000
+      internalID: -1967923831431276037
       vertices: []
       indices: 
       edges: []
