@@ -81,7 +81,8 @@ public class MiniBossEnemy : MonoBehaviour
         {
             _anim.SetBool("Idle", false);
             _anim.SetBool("Attack Melee", false);
-            _anim.SetBool("Attack Range", false);
+            _anim.SetBool("Attack Range Move", false);
+            _anim.SetBool("Attack Range Idle", false);
             if (_enemyRb.velocity.x > 0.1f || _enemyRb.velocity.x < 0.1f)
             {
                 _anim.SetBool("Move", true);
@@ -118,7 +119,8 @@ public class MiniBossEnemy : MonoBehaviour
                 _anim.SetBool("Idle", false);
                 _anim.SetBool("Move", false);
                 _anim.SetBool("Attack Melee", false);
-                _anim.SetBool("Attack Range", true);
+                _anim.SetBool("Attack Range Move", true);
+                _anim.SetBool("Attack Range Idle", false);
 
                 // enemy to the right of player
                 if (transform.position.x > _player.position.x)
@@ -141,7 +143,8 @@ public class MiniBossEnemy : MonoBehaviour
                 _anim.SetBool("Attack Melee", true);
                 _anim.SetBool("Move", false);
                 _anim.SetBool("Idle", false);
-                _anim.SetBool("Attack Range", false);
+                _anim.SetBool("Attack Range Idle", false);
+                _anim.SetBool("Attack Range Move", false);
 
                 _enemyRb.velocity = new Vector2(0, 0);
 
@@ -178,14 +181,16 @@ public class MiniBossEnemy : MonoBehaviour
                         _anim.SetBool("Idle", false);
                         _anim.SetBool("Move", false);
                         _anim.SetBool("Attack Melee", false);
-                        _anim.SetBool("Attack Range", true);
+                        _anim.SetBool("Attack Range Idle", true);
+                        _anim.SetBool("Attack Range Move", false);
                     }
                     else
                     {
                         _anim.SetBool("Idle", false);
                         _anim.SetBool("Move", false);
                         _anim.SetBool("Attack Melee", true);
-                        _anim.SetBool("Attack Range", false);
+                        _anim.SetBool("Attack Range Idle", false);
+                        _anim.SetBool("Attack Range Move", false);
                     }
                 }
                 // enemy to the left of player
@@ -199,14 +204,16 @@ public class MiniBossEnemy : MonoBehaviour
                         _anim.SetBool("Idle", false);
                         _anim.SetBool("Move", false);
                         _anim.SetBool("Attack Melee", false);
-                        _anim.SetBool("Attack Range", true);
+                        _anim.SetBool("Attack Range Idle", true);
+                        _anim.SetBool("Attack Range Move", false);
                     }
                     else
                     {
                         _anim.SetBool("Idle", false);
                         _anim.SetBool("Move", false);
                         _anim.SetBool("Attack Melee", true);
-                        _anim.SetBool("Attack Range", false);
+                        _anim.SetBool("Attack Range Idle", false);
+                        _anim.SetBool("Attack Range Move", false);
                     }
                 }
             }
@@ -249,7 +256,7 @@ public class MiniBossEnemy : MonoBehaviour
         }
 
         // enemy attacking player (range)
-        if (_hitPlayer && Mathf.Abs(transform.position.x - _player.position.x) > _stopDistance)
+        if (_hitPlayer && Mathf.Abs(transform.position.x - _player.position.x) > _stopDistance && _notAtEdge == true)
         {
             // setting wait amount
             if (_timeBetweenAttacks <= 0f)
@@ -265,7 +272,7 @@ public class MiniBossEnemy : MonoBehaviour
                 // attack
                 if (_timeBetweenAttacks <= 0f)
                 {
-                    _anim.SetBool("Attack Range", true);
+                    _anim.SetBool("Attack Range Move", true);
                     Instantiate(_laser, _firePoint.position, Quaternion.identity);
                     //GameObject.Find("Player").GetComponent<Player>().TakeDamage(_damageDealt);
                     _timeBetweenAttacks = 0f;
@@ -274,7 +281,35 @@ public class MiniBossEnemy : MonoBehaviour
         }
         else if (!_hitPlayer)
         {
-            _anim.SetBool("Attack Range", false);
+            _anim.SetBool("Attack Range Move", false);
+        }
+
+        if (_hitPlayer && Mathf.Abs(transform.position.x - _player.position.x) > _stopDistance && _notAtEdge == false)
+        {
+            // setting wait amount
+            if (_timeBetweenAttacks <= 0f)
+            {
+                _timeBetweenAttacks = _attackSpeed;
+            }
+
+            // waiting 
+            if (_timeBetweenAttacks > 0f)
+            {
+                _timeBetweenAttacks -= Time.deltaTime;
+
+                // attack
+                if (_timeBetweenAttacks <= 0f)
+                {
+                    _anim.SetBool("Attack Range Idle", true);
+                    Instantiate(_laser, _firePoint.position, Quaternion.identity);
+                    //GameObject.Find("Player").GetComponent<Player>().TakeDamage(_damageDealt);
+                    _timeBetweenAttacks = 0f;
+                }
+            }
+        }
+        else if (!_hitPlayer)
+        {
+            _anim.SetBool("Attack Range Idle", false);
         }
     }
 }

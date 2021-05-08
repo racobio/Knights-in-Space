@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 9c1cb444afb67c8439087d35cfa15f68
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2395819042074812855
+    second: enemy mini boss attack move_0
+  - first:
+      213: 6241156734403113542
+    second: enemy mini boss attack move_1
+  - first:
+      213: -4405094015804708725
+    second: enemy mini boss attack move_2
+  - first:
+      213: -2110944397899575176
+    second: enemy mini boss attack move_3
+  - first:
+      213: 787569263034367698
+    second: enemy mini boss attack move_4
+  - first:
+      213: 8376813985471875760
+    second: enemy mini boss attack move_5
+  - first:
+      213: 1599081305108573173
+    second: enemy mini boss attack move_4
+  - first:
+      213: -4621203902024276578
+    second: enemy mini boss attack move_7
+  - first:
+      213: 3154440671456114153
+    second: enemy mini boss attack move_5
+  - first:
+      213: -147931585425206470
+    second: enemy mini boss attack move_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,7 +117,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: enemy mini boss attack move_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 148
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e930b564750ced0800000000000000
+      internalID: -2395819042074812855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 148
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64272ad9bfa0d9650800000000000000
+      internalID: 6241156734403113542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88e2c1f456fdd2c0800000000000000
+      internalID: -4405094015804708725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 60
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870589e114b64b2e0800000000000000
+      internalID: -2110944397899575176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe6f589f3113610800000000000000
+      internalID: 1599081305108573173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 45
+        height: 65
+      alignment: 9
+      pivot: {x: 0.515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5bf27e313d6cb20800000000000000
+      internalID: 3154440671456114153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy mini boss attack move_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 27
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339bafb10172fdf0800000000000000
+      internalID: -147931585425206470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Attack Range
+  m_Name: Attack Range Idle
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -27,7 +27,7 @@ AnimationClip:
       value: {fileID: 5418004570226901603, guid: 0b2bca16e4e399540845c175ce956520, type: 3}
     - time: 0.41666666
       value: {fileID: 7744266268952310019, guid: 0b2bca16e4e399540845c175ce956520, type: 3}
-    - time: 0.5
+    - time: 0.48333332
       value: {fileID: 7744266268952310019, guid: 0b2bca16e4e399540845c175ce956520, type: 3}
     attribute: m_Sprite
     path: 
@@ -58,7 +58,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.51666665
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
