@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: ad27ea0de0b1b424aaf4b21b81e750ff
+guid: 625c1d4de3f543e4c914fa2e8d264a4b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8557057947627865144
-    second: PlayerDeathAnimations_0
+      213: 5598339208716672946
+    second: CharacterConcept_4NEWIDLE_0
   - first:
-      213: -147857968822918072
-    second: PlayerDeathAnimations_1
+      213: -7037492430868218762
+    second: CharacterConcept_4NEWIDLE_1
   - first:
-      213: -5749889845379480754
-    second: PlayerDeathAnimations_2
+      213: -4169973808656435139
+    second: CharacterConcept_4NEWIDLE_2
   - first:
-      213: 2249336283239448082
-    second: PlayerDeathAnimations_3
-  - first:
-      213: 9193811595156925973
-    second: PlayerDeathAnimations_4
-  - first:
-      213: 4657652000303326256
-    second: PlayerDeathAnimations_5
-  - first:
-      213: -9041013195157301954
-    second: PlayerDeathAnimations_6
-  - first:
-      213: 9094814539888100935
-    second: PlayerDeathAnimations_7
+      213: 4995702924172004017
+    second: CharacterConcept_4NEWIDLE_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -113,169 +101,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerDeathAnimations_0
+      name: CharacterConcept_4NEWIDLE_0
       rect:
         serializedVersion: 2
-        x: 30
-        y: 260
-        width: 43
-        height: 82
+        x: 32
+        y: 28
+        width: 38
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 834cacabdd6c0c670800000000000000
-      internalID: 8557057947627865144
+      spriteID: 2bfd2bb59db41bd40800000000000000
+      internalID: 5598339208716672946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_1
+      name: CharacterConcept_4NEWIDLE_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 265
-        width: 62
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 139
+        y: 26
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5202556, y: 0.40441188}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8446913f5f3b2fdf0800000000000000
-      internalID: -147857968822918072
+      spriteID: 67c799c9bedc55e90800000000000000
+      internalID: -7037492430868218762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_2
+      name: CharacterConcept_4NEWIDLE_2
       rect:
         serializedVersion: 2
-        x: 236
-        y: 266
-        width: 75
-        height: 76
+        x: 252
+        y: 29
+        width: 37
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e43c78c56a94430b0800000000000000
-      internalID: -5749889845379480754
+      spriteID: d38b95c1ae64126c0800000000000000
+      internalID: -4169973808656435139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_3
+      name: CharacterConcept_4NEWIDLE_3
       rect:
         serializedVersion: 2
-        x: 9
-        y: 143
-        width: 83
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 359
+        y: 26
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46061453, y: 0.5199702}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21e72ee9e6f373f10800000000000000
-      internalID: 2249336283239448082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDeathAnimations_4
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 143
-        width: 104
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51e22355feaf69f70800000000000000
-      internalID: 9193811595156925973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDeathAnimations_5
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 143
-        width: 97
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 034a77521dd43a040800000000000000
-      internalID: 4657652000303326256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDeathAnimations_6
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 22
-        width: 88
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e35970d766ed78280800000000000000
-      internalID: -9041013195157301954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDeathAnimations_7
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 23
-        width: 91
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 746861c33a5473e70800000000000000
-      internalID: 9094814539888100935
+      spriteID: 1ba07a6575d445540800000000000000
+      internalID: 4995702924172004017
       vertices: []
       indices: 
       edges: []

@@ -1,31 +1,28 @@
 fileFormatVersion: 2
-guid: ad27ea0de0b1b424aaf4b21b81e750ff
+guid: 59879cc7a500a734692a2405e1d69847
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8557057947627865144
-    second: PlayerDeathAnimations_0
+      213: -5688238498923985872
+    second: PlayerDashAnimations_0
   - first:
-      213: -147857968822918072
-    second: PlayerDeathAnimations_1
+      213: -2459411019093957990
+    second: PlayerDashAnimations_1
   - first:
-      213: -5749889845379480754
-    second: PlayerDeathAnimations_2
+      213: 5986772423799961618
+    second: PlayerDashAnimations_2
   - first:
-      213: 2249336283239448082
-    second: PlayerDeathAnimations_3
+      213: 1553374261726056337
+    second: PlayerDashAnimations_3
   - first:
-      213: 9193811595156925973
-    second: PlayerDeathAnimations_4
+      213: -6469453260963554219
+    second: PlayerDashAnimations_4
   - first:
-      213: 4657652000303326256
-    second: PlayerDeathAnimations_5
+      213: 1913430921074029845
+    second: PlayerDashAnimations_5
   - first:
-      213: -9041013195157301954
-    second: PlayerDeathAnimations_6
-  - first:
-      213: 9094814539888100935
-    second: PlayerDeathAnimations_7
+      213: 5280796245496667866
+    second: PlayerDashAnimations_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -75,7 +72,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -113,12 +110,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerDeathAnimations_0
+      name: PlayerDashAnimations_0
       rect:
         serializedVersion: 2
-        x: 30
-        y: 260
-        width: 43
+        x: 18
+        y: 138
+        width: 62
         height: 82
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -127,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 834cacabdd6c0c670800000000000000
-      internalID: 8557057947627865144
+      spriteID: 0344fe909315f01b0800000000000000
+      internalID: -5688238498923985872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_1
+      name: PlayerDashAnimations_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 265
-        width: 62
-        height: 77
+        x: 126
+        y: 140
+        width: 57
+        height: 79
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8446913f5f3b2fdf0800000000000000
-      internalID: -147857968822918072
+      spriteID: a92293a65ba6eddd0800000000000000
+      internalID: -2459411019093957990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_2
+      name: PlayerDashAnimations_2
       rect:
         serializedVersion: 2
-        x: 236
-        y: 266
-        width: 75
-        height: 76
+        x: 229
+        y: 142
+        width: 67
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e43c78c56a94430b0800000000000000
-      internalID: -5749889845379480754
+      spriteID: 21873b7dcc9451350800000000000000
+      internalID: 5986772423799961618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_3
+      name: PlayerDashAnimations_3
       rect:
         serializedVersion: 2
-        x: 9
-        y: 143
-        width: 83
-        height: 83
+        x: 327
+        y: 141
+        width: 73
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21e72ee9e6f373f10800000000000000
-      internalID: 2249336283239448082
+      spriteID: 19f8a6139a1be8510800000000000000
+      internalID: 1553374261726056337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_4
+      name: PlayerDashAnimations_4
       rect:
         serializedVersion: 2
-        x: 110
-        y: 143
-        width: 104
-        height: 65
+        x: 1
+        y: 18
+        width: 74
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51e22355feaf69f70800000000000000
-      internalID: 9193811595156925973
+      spriteID: 55c56492982e736a0800000000000000
+      internalID: -6469453260963554219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_5
+      name: PlayerDashAnimations_5
       rect:
         serializedVersion: 2
-        x: 225
-        y: 143
-        width: 97
-        height: 50
+        x: 106
+        y: 16
+        width: 84
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 034a77521dd43a040800000000000000
-      internalID: 4657652000303326256
+      spriteID: 515bdd0f84fdd8a10800000000000000
+      internalID: 1913430921074029845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDeathAnimations_6
+      name: PlayerDashAnimations_6
       rect:
         serializedVersion: 2
-        x: 7
+        x: 245
         y: 22
-        width: 88
-        height: 45
+        width: 74
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,35 +250,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e35970d766ed78280800000000000000
-      internalID: -9041013195157301954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDeathAnimations_7
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 23
-        width: 91
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 746861c33a5473e70800000000000000
-      internalID: 9094814539888100935
+      spriteID: ade9b08d438294940800000000000000
+      internalID: 5280796245496667866
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
-    physicsShape: []
+    physicsShape:
+    - - {x: -191, y: 24}
+      - {x: -191, y: 101}
+      - {x: -151, y: 101}
+      - {x: -151, y: 24}
+    - - {x: -93, y: 26}
+      - {x: -93, y: 101}
+      - {x: -37, y: 101}
+      - {x: -37, y: 26}
+    - - {x: 12, y: 16}
+      - {x: 12, y: 104}
+      - {x: 75, y: 104}
+      - {x: 75, y: 16}
+    - - {x: 113, y: 24}
+      - {x: 113, y: 98}
+      - {x: 178, y: 98}
+      - {x: 178, y: 24}
+    - - {x: -219, y: -103}
+      - {x: -219, y: -13}
+      - {x: -149, y: -13}
+      - {x: -149, y: -103}
+    - - {x: -117, y: -99}
+      - {x: -117, y: -10}
+      - {x: -33, y: -10}
+      - {x: -33, y: -99}
+    - - {x: 19, y: -96}
+      - {x: 19, y: -18}
+      - {x: 99, y: -18}
+      - {x: 99, y: -96}
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
